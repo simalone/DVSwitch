@@ -19,7 +19,7 @@ DVSwitch was inspired by UISwitch and UISegmentedControl. The goals of this code
 *Slider is halfway from one item to another, notice per pixel text color change*
 
 
-Usage
+Support
 -----
 
     DVSwitch *switcher = [[DVSwitch alloc] initWithStringsArray:@[@"First", @"Second"]];
